@@ -84,8 +84,6 @@ motto: "Turning ideas into secure code"
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=candra2006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=candra2006&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFF" alt="GitHub Streak"/>
-
 </div>
 
 <div align="center">
