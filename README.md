@@ -83,14 +83,19 @@ motto: "Turning ideas into secure code"
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=candra2006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=candra2006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" alt="GitHub Stats"/>
 </div>
-
-<div align="center">
   
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candra2006&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF" alt="Top Languages"/>
+<div align="center">
+
+<img 
+  width="50%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=candra2006&layout=compact&langs_count=3&theme=radical&hide_border=true&bg_color=0D1117,36096D,000000&title_color=F85D7F&text_color=FFFFFF&cache_seconds=1800" 
+  alt="Top Languages (Cyberpunk Custom)"
+/>
 
 </div>
+
 
 ## 🏆 GitHub Trophies
 
