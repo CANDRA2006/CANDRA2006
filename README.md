@@ -1,8 +1,9 @@
-Hi my name is Candra👋
-🔭 I’m currently working on Machine Learning Research
-🌱 I’m currently learning Cyber Security
-😎 I’m looking to collaborate on Open Source Project
-⚡ Motto: per aspera ad astra
+## Hi my name is Candra👋
+
+- 🔭 I’m currently working on **Machine Learning Research** 
+- 🌱 I’m currently learning **Cyber Security**
+- 👯 I’m looking to collaborate on **Open Source Project**
+- ⚡ Motto: **per aspera ad astra**
 
 ### Github Statistic
 
