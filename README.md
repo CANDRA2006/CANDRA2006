@@ -14,18 +14,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=candra2006&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Commit Activity"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=candra2006&hide_border=true"
-    width="100%"
-    alt="GitHub Streak"
-  />
-</p>
