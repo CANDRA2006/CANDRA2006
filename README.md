@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:1a1405,100:D4AF37&height=300&section=header&text=CANDRA%20SYA'BANA&fontSize=64&fontColor=F5D06F&fontAlignY=36&desc=%E2%9C%A6%20PUTRA%20GUNADI%20%E2%9C%A6&descAlignY=58&descSize=26&animation=fadeIn&stroke=D4AF37&strokeWidth=1" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:1a1405,100:D4AF37&height=300&section=header&text=CANDRA%20%E2%9C%A6&descAlignY=58&descSize=26&animation=fadeIn&stroke=D4AF37&strokeWidth=1" width="100%" alt="header" />
 
 <a href="https://github.com/candra2006">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3500&pause=1000&color=F5D06F&center=true&vCenter=true&width=720&height=55&lines=Informatics+Student+%7C+UIN+K.H.+Abdurrahman+Wahid;Science+%26+Technology+Researcher;Building+AI+from+Indonesia+for+the+World;Per+Aspera+Ad+Astra" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3500&pause=1000&color=F5D06F&center=true&vCenter=true&width=720&height=55&lines=Informatics+Student;Science+%26+Technology+Researcher;Building+AI+from+Indonesia+for+the+World;Per+Aspera+Ad+Astra" alt="Typing" />
 </a>
 
 <br/>
