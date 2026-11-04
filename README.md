@@ -89,7 +89,9 @@
 
 <br/><br/>
 
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=candra2006&bg_color=0a0a0a&color=D4AF37&line=D4AF37&point=F5D06F&area=true&area_color=D4AF37&title_color=D4AF37&hide_border=true&radius=14" alt="Contribution Graph" />
+<a href="https://github.com/candra2006">
+  <img width="88%" src="https://ghchart.rshah.org/D4AF37/candra2006" alt="Contribution Graph" />
+</a>
 
 </div>
 
@@ -105,13 +107,22 @@
   <img alt="snake" src="https://raw.githubusercontent.com/candra2006/candra2006/output/github-snake-dark.svg" width="88%" />
 </picture>
 
-<br/>
+</div>
+
+<!--
+  TROPHIES (nonaktif): instance publik github-profile-trophy.vercel.app sering kena rate limit GitHub API,
+  jadi gambarnya kosong. Deploy sendiri ryo-ma/github-profile-trophy ke Vercel (set env PAT_1),
+  lalu ganti YOUR-DEPLOY di bawah dan hapus tanda komentar ini.
+
+<div align="center">
 
 ### ✦ &nbsp;T R O P H I E S&nbsp; ✦
 
-<img src="https://github-profile-trophy.vercel.app/?username=candra2006&theme=matrix&no-frame=true&no-bg=true&margin-w=14&row=1&column=7" alt="Trophies" />
+<img src="https://YOUR-DEPLOY.vercel.app/?username=candra2006&theme=matrix&no-frame=true&no-bg=true&margin-w=14&row=1&column=7" alt="Trophies" />
 
 </div>
+-->
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:D4AF37,100:000000&height=2&section=header" width="100%" />
 
