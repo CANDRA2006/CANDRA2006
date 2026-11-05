@@ -45,7 +45,7 @@
 
 🌱<br/>
 **CURRENTLY MASTERING**<br/>
-<sub>Artificial Intelligence Development</sub>
+<sub>Penetration Testting</sub>
 
 </td>
 <td align="center" width="33%">
@@ -65,9 +65,9 @@
 
 ### ✦ &nbsp;T E C H &nbsp; A R S E N A L&nbsp; ✦
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,php,java,cpp,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,php,java,cpp,html,css&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,tailwind,flask,tensorflow,pytorch&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postgres,mysql,vscode,figma,blender,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postgres,mysql,vscode,unrealengine,figma,blender,vercel&theme=dark" />
 
 </div>
 
