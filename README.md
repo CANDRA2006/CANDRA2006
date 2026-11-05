@@ -8,11 +8,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-AI%20DEVELOPER-000000?style=for-the-badge&labelColor=000000&color=D4AF37&logo=tensorflow&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/-AI%20ENTHUSIAST-000000?style=for-the-badge&labelColor=000000&color=D4AF37&logo=tensorflow&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/-BACK--END-000000?style=for-the-badge&labelColor=000000&color=D4AF37&logo=react&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/-OPEN%20SOURCE-000000?style=for-the-badge&labelColor=000000&color=D4AF37&logo=opensourceinitiative&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/-PEKALONGAN%20%F0%9F%87%AE%F0%9F%87%A9-000000?style=for-the-badge&labelColor=000000&color=D4AF37" />
-
+<img src="https://img.shields.io/badge/-CYBER%20SECURITY%20%F0%9F%87%AE%F0%9F%87%A9-000000?style=for-the-badge&labelColor=000000&color=D4AF37&logo=kalilinux&logoColor=D4AF37" />
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=candra2006&label=VISITORS&color=D4AF37&labelColor=000000&style=for-the-badge" />
